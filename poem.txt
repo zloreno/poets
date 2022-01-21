@@ -5,4 +5,5 @@ study top level edits
 lesson 2
 
 the rainbow and the unicorn
+let's try to change both the branch and the master
 let's see what happens now

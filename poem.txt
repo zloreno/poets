@@ -1,6 +1,6 @@
 lesson 0
 sorry you are right, let me fix that real quick :)
-having "fixes" in the commit comment will close automatically the issue referenced 
+if you reference the issue with the #id and write "fixes" in the comment of the commit, then the issue will be closed automatically
 
 lesson 1
 

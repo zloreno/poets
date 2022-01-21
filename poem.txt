@@ -1,5 +1,6 @@
 lesson 0
 sorry you are right, let me fix that real quick :)
+having "fixes" in the commit comment will close automatically the issue referenced 
 
 lesson 1
 
